@@ -1,6 +1,6 @@
 name: template-naga
 url: http://nspandramishi.github.io
-baseurl: "/template-naga"
+baseurl: /template-naga
 description: Insert tagline here
 
 permalink: /themes/:title/
