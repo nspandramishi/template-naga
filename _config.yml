@@ -1,5 +1,6 @@
-name: Jekyll Themes
-url: http://matt.harzewski.com
+name: template-naga
+url: http://nspandramishi.github.io
+baseurl: "/template-naga"
 description: Insert tagline here
 
 permalink: /themes/:title/
